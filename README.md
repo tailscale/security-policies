@@ -4,7 +4,7 @@ Tailscale has several security policies in place to properly identify, respond t
 
 We’ve published these publicly for transparency, so that you can see where we are in terms of security maturity. We also hope you use these to adopt similar policies and processes at your organization.
 
-_Since these are our internal policies, some links to internal documents or resources are only visible to employees._
+_Since these are our internal policies, some links to internal documents or resources that are only visible to employees._
 
 This repository is the source of truth for the policies available at https://tailscale.com/security-policies/.
 
