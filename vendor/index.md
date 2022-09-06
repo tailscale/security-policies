@@ -7,7 +7,6 @@ weight: 4
 ---
 
 Tailscale reviews vendor security practices before contracting, and on a regular basis, to ensure vendors properly handle Tailscale’s customer data, confidential data, and other data.
-<!--Tailscale’s [full vendor list is available here](https://docs.google.com/spreadsheets/d/1WerAlilhS86njuZB5_trKJAq9dxQeDBIlVY_4_d7sHg/edit#gid=0).-->
 
 ### Scope
 
