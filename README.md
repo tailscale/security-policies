@@ -56,7 +56,7 @@ Yes! Feel free to be inspired by Tailscale's internal security policies for use 
 
 ## Contributing
 
-We do not accept public contributions or issues on this repository. This is because this repository acts as the source of truth for Tailscale's internal policies.
+We do not accept public contributions or issues on this repository. This is because this repository acts as the source of truth for Tailscale's internal policies. If you are a Tailscale user, and have a question or concern about one of these policies, please contact info@tailscale.com.
 
 We may consider public comment on proposed changes.
 
