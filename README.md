@@ -8,6 +8,8 @@ _Since these are our internal policies, some links to internal documents or reso
 
 This repository is the source of truth for the policies available at https://tailscale.com/security-policies/.
 
+These policies were last reviewed on 2022-10-03.
+
 ### FAQ
 
 ### What policies are included?
