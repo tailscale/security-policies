@@ -17,6 +17,7 @@ Risk assessments can be conducted on any information system, to include applicat
 The Security Review Team is responsible for completing periodic information security risk assessments for the purpose of determining areas of vulnerability, and to identify and initiate appropriate remediations.
 
 A risk register should include:
+
 * Identification of the risk
 * What mitigations have been put in place
 * Acceptance of the residual risk

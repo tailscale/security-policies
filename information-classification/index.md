@@ -13,6 +13,7 @@ Assets are anything that has value to the organization, including but not limite
 ### Asset cataloging
 
 Tailscale catalogues assets with several pieces of information, to help identify the potential risk of the asset. Information collected is as follows:
+
 * **Description**, i.e. what is the asset?
 * **Risk**, i.e. what is the asset risk classification?
 * **Use**, i.e. how is this asset used?

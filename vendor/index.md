@@ -26,11 +26,13 @@ As part of vendor evaluation and contracting, vendors’ security practices shou
 The requirements for a vendor may change based on the risk classification of the assets they are handling (see the Information classification policy), such as sensitive data, or access to production resources; and may change during a contract if a vendor’s scope or responsibilities change.
 
 Tailscale will:
+
 1. Ask vendors for their SOC 2 type II or type I report for an overview of their current security practices. If a SOC 2 report does not exist or where insufficient information is provided, Tailscale will ask the vendor to complete the [VSAQ](https://vsaq-demo.withgoogle.com/).
 2. Review the vendor’s responses and compare these to Tailscale’s security policies to identify any gaps where the vendor may have weaker policies.
 3. For each notable gap or where insufficient information is provided, Tailscale can: ask the vendor to make a change or provide additional information, implement a mitigating control, or accept the risk. These should be documented in the risk register.
 
 Tailscale will document vendor information, to help in case of a potential incident. This information includes:
+
 * **Vendor name**, i.e. Which vendor?
 * **Vendor contact information**, i.e. How do we contact the vendor? List different contacts for billing, support, and/or security where they apply.
 * **Type of data shared**, i.e. What types of data from Tailscale does the vendor collect or otherwise have access to?
