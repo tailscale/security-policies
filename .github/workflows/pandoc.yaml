@@ -1,0 +1,24 @@
+name: Generate PDFs
+
+on: push
+
+jobs:
+  pandoc:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - uses: docker://pandoc/latex
+        with:
+          entrypoint: /bin/sh
+          args: -c .github/scripts/mkpdf.sh
+
+      - name: Upload output
+        uses: actions/upload-artifact@master
+        with:
+          name: policies.pdf
+          path: policies.pdf
