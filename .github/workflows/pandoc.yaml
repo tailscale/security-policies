@@ -12,7 +12,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: docker://pandoc/latex
+      - uses: docker://pandoc/latex:latest-ubuntu
         with:
           entrypoint: /bin/sh
           args: -c .github/scripts/mkpdf.sh
