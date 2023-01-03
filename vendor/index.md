@@ -36,4 +36,5 @@ Tailscale will document vendor information, to help in case of a potential incid
 * **Vendor name**, i.e. Which vendor?
 * **Vendor contact information**, i.e. How do we contact the vendor? List different contacts for billing, support, and/or security where they apply.
 * **Type of data shared**, i.e. What types of data from Tailscale does the vendor collect or otherwise have access to?
+* **Terms of Service** for services provided by the vendor
 * **Security report or questionnaire** shared by the vendor
