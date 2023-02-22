@@ -6,7 +6,7 @@ header-includes: |
     \lhead{}
     \rhead{TAILSCALE SECURITY POLICIES}
     \rfoot{\thepage}
-	\cfoot{}
+    \cfoot{}
     \lfoot{Tailscale Inc.}
 ---
 
