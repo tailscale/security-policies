@@ -39,7 +39,6 @@ Tailscale classifies assets into three risk categories: **Low Risk**, **Medium R
    </td>
    <td>
 <ul>
-
 <li><strong>Data</strong>: protection is mandated by confidentiality agreements, labor codes, specific laws and regulations (e.g. PCI DSS, HIPAA, GDPR), or data is subject to breach reporting requirements, or disclosure would have a significant adverse impact on Tailscale (e.g., user accounts database).
 
 <li><strong>Hardware and software systems</strong>: compromise would have a significant adverse impact on Tailscale (e.g. the login.tailscale.com control plane service).
@@ -52,7 +51,6 @@ Tailscale classifies assets into three risk categories: **Low Risk**, **Medium R
    </td>
    <td>
 <ul>
-
 <li><strong>Data</strong>: not generally available to the public, and disclosure would have some adverse impact on Tailscale (e.g. internal engineering documentation).
 
 <li><strong>Hardware and software systems</strong>: compromise would have some adverse impact on Tailscale (e.g. cloud VM running production monitoring system).
@@ -65,7 +63,6 @@ Tailscale classifies assets into three risk categories: **Low Risk**, **Medium R
    </td>
    <td>
 <ul>
-
 <li><strong>Data</strong>: publicly available, or disclosure would have no adverse operational or financial impact on Tailscale (e.g. tailscale.com website source code). May still have some limited reputational impact.
 
 <li><strong>Hardware and software systems</strong>: compromise would have no adverse impact on Tailscale (e.g. testbed cloud VM with no user data or privileged access).
