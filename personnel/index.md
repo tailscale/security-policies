@@ -15,4 +15,4 @@ As part of its hiring process, Tailscale does not perform criminal background ch
 All employees must complete Tailscale’s information security awareness training as part of their initial onboarding and thereafter, while still under contract, on an annual basis.
 
 ### Performance Reviews
-All full time employees must complete a biannual Performance Review, the results of which are signed and dated by both the employee and their manager, and uploaded to the employee’s personnel files in the HR system.
+All full time employees must complete an annual Performance Review, the results of which are signed and dated by both the employee and their manager, and uploaded to the employee’s personnel files in the HR system.

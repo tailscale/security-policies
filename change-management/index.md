@@ -14,7 +14,7 @@ To avoid potential security incidents, Tailscale requires change management cont
 
 Changes to code in Tailscale’s environment made by an employee or contractor must be tested and approved by another employee prior to being merged and rolled out.
 
-Tailscale uses branch protection rules on GitHub to require a second review prior to merging code.
+Tailscale uses branch protection rules on GitHub to require changes be made through a pull request with a second review prior to merging code.
 
 Exceptionally, employees can push changes without a second review where they are required to mitigate an incident. Changes pushed without prior approval are tagged and audited after the fact, within 2 business days.
 
