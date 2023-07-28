@@ -26,7 +26,7 @@ All employees should watch for potentially suspicious activities, including:
 * Modification or defacement of websites
 * New open network ports on a system
 
-Tailscale regularly reviews logs for detecting and tracking attempted intrusions and other suspicious activity. These include git, cloud, networking, SaaS tool, and other infrastructure logs.
+Tailscale regularly reviews logs to detect and track attempted intrusions and other suspicious activity. These include git, cloud, networking, SaaS tool, and other infrastructure logs.
 
 The Security Review Team:
 
