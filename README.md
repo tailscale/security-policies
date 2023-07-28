@@ -27,6 +27,7 @@ This repository includes:
 * [Testing policy](/testing/index.md)
 * [Patch management policy](/patch-management/index.md)
 * [Data retention and deletion policy](/data-retention-deletion/index.md)
+* [Incident disclosure and notification policy](/incident-disclosure/index.md)
 
 ### When does Tailscale review or update these policies?
 

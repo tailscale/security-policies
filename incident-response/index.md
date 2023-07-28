@@ -26,7 +26,7 @@ All employees should watch for potentially suspicious activities, including:
 * Modification or defacement of websites
 * New open network ports on a system
 
-Tailscale regularly reviews logs for detecting and tracking attempted intrusions and other suspicious activity. These include git, cloud, networking, SaaS tool, and other infrastructure logs. 
+Tailscale regularly reviews logs for detecting and tracking attempted intrusions and other suspicious activity. These include git, cloud, networking, SaaS tool, and other infrastructure logs.
 
 The Security Review Team:
 
@@ -41,3 +41,7 @@ Tailscale’s Security Review Team reviews and responds to potential third-party
 ### Incident response and remediation
 
 If a suspected incident is detected, it should be responded to following the [Incident response process](http://go/incident-response-process).
+
+We respond to reported incidents, and resolve and determine impact as soon as possible. We aim to remediate incidents as soon as possible.
+
+Confirmed incidents may be disclosed publicly per our [disclosure policy](/security-policies/incident-disclosure/).
