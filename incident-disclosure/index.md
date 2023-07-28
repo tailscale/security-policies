@@ -29,8 +29,6 @@ We will **notify users directly** about a security vulnerability when we can con
 * User action is needed to fix the vulnerability, and it is a critical or high impact vulnerability; or
 * We can confirm that tailnet metadata or data was visible to an unauthorized party.
 
-We respond to reported incidents, and resolve and determine impact as soon as possible. We do not provide guarantees on time to remediate.
-
 ### How we notify users
 
 To disclose security vulnerabilities, Tailscale publishes security bulletins publicly for a broad audience at [https://tailscale.com/security-bulletins/](https://tailscale.com/security-bulletins/). These can be consumed directly, via RSS readers or via social media bot accounts.

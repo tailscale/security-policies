@@ -42,6 +42,6 @@ Tailscale’s Security Review Team reviews and responds to potential third-party
 
 If a suspected incident is detected, it should be responded to following the [Incident response process](http://go/incident-response-process).
 
-We respond to reported incidents, and resolve and determine impact as soon as possible. We do not provide guarantees on time to remediate.
+We respond to reported incidents, and resolve and determine impact as soon as possible. We aim to remediate incidents as soon as possible.
 
 Confirmed incidents may be disclosed publicly per our [disclosure policy](/security-policies/incident-disclosure/).
