@@ -35,4 +35,4 @@ To disclose security vulnerabilities, Tailscale publishes security bulletins pub
 
 To notify users about security vulnerabilities, Tailscale will **email** affected tailnets’ administrators, with information specific to the tailnet, including specific users or nodes which are affected. These emails will be sent to the [security contact](https://tailscale.com/kb/1224/contact-preferences/#setting-the-security-issues-email) for the tailnet, which by default is the Owner of the tailnet.
 
-Occasionally, Tailscale may decide to notify users in additional ways about a security issue, such as by publishing a [blog post](https://tailscale.com/blog/), or with in-product notifications by putting a warning banner in the admin console.
+Occasionally, Tailscale may decide to notify users in additional ways about a security issue, such as by publishing a [blog post](https://tailscale.com/blog/), or with in-product notifications (such as by putting a warning banner in the admin console).
