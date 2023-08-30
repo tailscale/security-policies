@@ -16,7 +16,7 @@ The following minimum standards apply to Tailscale’s assets as managed by empl
 
 An incident could be detected internally by an employee in their course of work, by an employee or vendor doing a review of Tailscale’s security posture, or an external third party reporting a potential vulnerability to us.
 
-If you see something, say something. All Tailscale employees should immediately report suspected security incidents or suspicious activity that occurs at Tailscale, including but not limited to security incidents, physical injury, theft, property damage, denial of service attacks, threats, harassment, abuse of individual user accounts, forgery and misrepresentation. Suspicious activity can be reported to the Slack channel [#incident-response](https://tailscale.slack.com/archives/C02SJSHV41H), or, for potentially sensitive incidents, to the Security Review Team or to the Chief Operating Officer (COO). Violations of the [Code of Conduct](http://go/code-of-conduct) should be reported to the Chief Operating Officer (COO).
+If you see something, say something. All Tailscale employees should immediately report suspected security incidents or suspicious activity that occurs at Tailscale, including but not limited to security incidents, physical injury, theft, property damage, denial of service attacks, threats, harassment, abuse of individual user accounts, forgery and misrepresentation. Suspicious activity can be reported to the Slack channel #incident-response, or, for potentially sensitive incidents, to the Security Review Team or to the Chief Operating Officer (COO). Violations of the [Code of Conduct](http://go/code-of-conduct) should be reported to the Chief Operating Officer (COO).
 
 All employees should watch for potentially suspicious activities, including:
 
@@ -40,7 +40,7 @@ Tailscale’s Security Review Team reviews and responds to potential third-party
 
 ### Incident response and remediation
 
-If a suspected incident is detected, it should be responded to following the [Incident response process](http://go/incident-response-process).
+If a suspected incident is detected, it should be responded to following the [Incident response process](/security-policies/incident-response-process/).
 
 We respond to reported incidents, and resolve and determine impact as soon as possible. We aim to remediate incidents as soon as possible.
 

@@ -34,4 +34,4 @@ An incident could be detected internally by monitoring tools, by an employee in 
 
 ### Outage response and remediation
 
-If a suspected outage or other business continuity incident is detected, it should be responded to following the [Incident response process](http://go/incident-response-process).
+If a suspected outage or other business continuity incident is detected, it should be responded to following the [Incident response process](/security-policies/incident-response-process).
