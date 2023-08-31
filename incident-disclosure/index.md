@@ -3,7 +3,7 @@ title: Incident disclosure and notification policy
 slug: incident-disclosure
 policy: true
 faq: false
-weight: 13
+weight: 5
 ---
 
 This policy specifies when and how we notify users about security incidents.
