@@ -8,7 +8,7 @@ weight: 5
 
 ### Incident response
 
-When a suspected incident is reported, it is first investigated by the SIGENG
+When a suspected incident is reported, it is first investigated by the eng-primary
 oncall. If it is suspected to be an incident, they should declare an incident,
 and identify the Incident Commander in the #incident-response Slack channel.
 The Incident Commander is responsible for:
