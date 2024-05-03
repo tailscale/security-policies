@@ -15,25 +15,26 @@ These policies were last reviewed on 2024-04-01.
 ### What policies are included?
 
 This repository includes:
-* [Personnel policy](/personnel/index.md)
-* [Risk assessment policy](/risk-assessment/index.md)
-* [Information classification policy](/information-classification/index.md)
-* [Third party vendor review policy](/vendor/index.md)
-* [Incident response policy](/incident-response-policy/index.md)
-* [Incident response process](/incident-response-process/index.md)
-* [BCP/DR policy](/bcp-dr/index.md)
-* [Access control policy](/access-control/index.md)
-* [Password policy](/password/index.md)
-* [Change management policy](/change-management/index.md)
-* [Testing policy](/testing/index.md)
-* [Patch management policy](/patch-management/index.md)
-* [Data retention and deletion policy](/data-retention-deletion/index.md)
-* [Incident disclosure and notification policy](/incident-disclosure/index.md)
+
+- [Personnel policy](/security-policies/personnel)
+- [Risk assessment policy](/security-policies/risk-assessment)
+- [Information classification policy](/security-policies/information-classification)
+- [Third party vendor review policy](/security-policies/vendor)
+- [Incident response policy](/security-policies/incident-response-policy)
+- [Incident response process](/security-policies/incident-response-process)
+- [BCP/DR policy](/security-policies/bcp-dr)
+- [Access control policy](/security-policies/access-control)
+- [Password policy](/security-policies/password)
+- [Change management policy](/security-policies/change-management)
+- [Testing policy](/security-policies/testing)
+- [Patch management policy](/security-policies/patch-management)
+- [Data retention and deletion policy](/security-policies/data-retention-deletion)
+- [Incident disclosure and notification policy](/security-policies/incident-disclosure)
 
 ### When does Tailscale review or update these policies?
 
 The Chief Operating Officer is responsible for reviewing and updating security policies on a quarterly basis.
-See [overview](/overview.md) of policies.
+See [overview](/security-policies/overview) of policies.
 
 ### Why don't you use the stronger security control X for the Y policy?
 
@@ -51,8 +52,9 @@ Since these are Tailscale's internal policies, some links to internal documents 
 ### Why did Tailscale publish these policies?
 
 These policies are published and available under CC0-1.0 in order to:
-* Be transparent about where we are in terms of security at Tailscale.
-* Help you be inspired by these policies as you complete your own SOC 2 audit or improve your own organization's security.
+
+- Be transparent about where we are in terms of security at Tailscale.
+- Help you be inspired by these policies as you complete your own SOC 2 audit or improve your own organization's security.
 
 ### Can I use these security policies?
 
