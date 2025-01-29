@@ -194,7 +194,7 @@ Data should be retained for a set period of time, depending on the type of data:
    </td>
    <td>Usage logging and analytics
    </td>
-   <td>5 years*
+   <td>1 year*
    </td>
   </tr>
   <tr>
