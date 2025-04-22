@@ -4,6 +4,7 @@ slug: testing
 policy: true
 faq: false
 weight: 10
+last_updated: 2025-04-07
 ---
 
 To avoid potential security incidents, Tailscale requires testing of its software to ensure that it functions as expected.

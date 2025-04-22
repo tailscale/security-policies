@@ -4,6 +4,7 @@ slug: access-control
 policy: true
 faq: false
 weight: 7
+last_updated: 2025-04-07
 ---
 
 Tailscale limits access control based on job requirements, following the principle of least privilege.

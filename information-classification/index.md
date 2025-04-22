@@ -4,6 +4,7 @@ slug: information-classification
 policy: true
 faq: false
 weight: 3
+last_updated: 2025-04-07
 ---
 
 To understand its potential exposure from a security risk, issue or incident, Tailscale regularly catalogues and classifies its data and other in-scope assets, in order to apply risk-based controls.

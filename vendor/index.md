@@ -4,6 +4,7 @@ slug: vendor
 policy: true
 faq: false
 weight: 4
+last_updated: 2025-04-07
 ---
 
 Tailscale reviews vendor security practices before contracting, and on a regular basis, to ensure vendors properly handle Tailscale’s customer data, confidential data, and other data.

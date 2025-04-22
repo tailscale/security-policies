@@ -4,6 +4,7 @@ slug: data-retention-deletion
 policy: true
 faq: false
 weight: 12
+last_updated: 2025-04-07
 ---
 
 Tailscale must retain certain kinds of data for a minimum amount of time, to comply with legal requirements. At the same time, Tailscale wants to avoid retaining any identifiable data for longer than is necessary, in case of a breach.

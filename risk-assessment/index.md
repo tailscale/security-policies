@@ -4,6 +4,7 @@ slug: risk-assessment
 policy: true
 faq: false
 weight: 2
+last_updated: 2025-04-07
 ---
 
 Tailscale reviews risks on a regular basis, to ensure proper mitigations are in place.

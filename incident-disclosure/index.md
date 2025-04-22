@@ -4,6 +4,7 @@ slug: incident-disclosure
 policy: true
 faq: false
 weight: 5
+last_updated: 2025-04-07
 ---
 
 This policy specifies when and how we notify users about security incidents.

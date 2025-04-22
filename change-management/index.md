@@ -4,6 +4,7 @@ slug: change-management
 policy: true
 faq: false
 weight: 9
+last_updated: 2025-04-07
 ---
 
 To avoid potential security incidents, Tailscale requires change management controls to ensure only authorized changes are made to its environment and processes.
