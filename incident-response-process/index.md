@@ -4,6 +4,7 @@ slug: incident-response-process
 policy: true
 faq: false
 weight: 5
+last_updated: 2025-04-07
 ---
 
 ### Incident response

@@ -32,7 +32,7 @@ This repository includes:
 
 ### When does Tailscale review or update these policies?
 
-The Chief Operating Officer is responsible for reviewing and updating security policies on a quarterly basis.
+The Chief Operating Officer is responsible for reviewing and updating security policies on an annual basis.
 See [overview](/overview.md) of policies.
 
 ### Why don't you use the stronger security control X for the Y policy?

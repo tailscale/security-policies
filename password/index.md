@@ -4,6 +4,7 @@ slug: password
 policy: true
 faq: false
 weight: 8
+last_updated: 2025-04-07
 ---
 
 To avoid potential security incidents, Tailscale requires employees to follow password requirements.
