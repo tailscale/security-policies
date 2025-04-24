@@ -4,7 +4,7 @@ slug: data-retention-deletion
 policy: true
 faq: false
 weight: 12
-last_updated: 2025-04-07
+last_updated: 2025-04-23
 ---
 
 Tailscale must retain and process certain kinds of customer and user data to deliver the Tailscale Solution and to comply with our customer commitments and legal requirements. At the same time, Tailscale wants to avoid retaining data for longer than is necessary.
