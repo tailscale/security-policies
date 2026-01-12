@@ -6,11 +6,17 @@ faq: false
 weight: 3
 ---
 
+### Purpose
+
 To understand its potential exposure from a security risk, issue or incident, Tailscale regularly catalogues and classifies its data and other in-scope assets, in order to apply risk-based controls.
 
-Assets are anything that has value to the organization, including but not limited to, customer data, production data, financial data, intellectual property, and any material non-public information.
+### Scope
 
-### Asset cataloging
+Applicable assets include, but not limited to, customer data, production data, financial data, intellectual property, and any material non-public information.
+
+### Policy
+
+#### Asset cataloging
 
 Tailscale catalogues assets with several pieces of information, to help identify the potential risk of the asset. Information collected is as follows:
 
@@ -72,8 +78,9 @@ Tailscale classifies assets into three risk categories: **Low Risk**, **Medium R
   </tr>
 </table>
 
-When multiple classifications may apply, the highest applicable classification is used. For example, if a machine is low-risk by itself, but can be used to access high-risk data, its overall classification is also high-risk.
+When multiple classifications may apply, the highest applicable classification is used. For example, if a machine is low-risk by itself, but can be used to access high-risk data, its overall classification is also high-risk. Any unlabeled assets will be considered confidential with the risk category of High by default.
 
-### Schedule
 
-Tailscale should review the data it collects and processes, and update the data register, quarterly.
+### Roles and responsibilities
+
+Tailscale’s Security team is responsible for reviewing and updating data assets on an annual basis.

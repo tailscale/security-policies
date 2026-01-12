@@ -6,12 +6,22 @@ faq: false
 weight: 5
 ---
 
-### Incident response
+### Purpose
+
+Tailscale’s customers are dependent on our services operating as normal. Proper detection and response to incidents that may impact the integrity, confidentiality or availability of services and data is critical to the operation of Tailscale.
+
+### Scope
+
+The following minimum standards apply to Tailscale’s assets as managed by employees, contractors and vendors. These recommendations represent the recommended minimum efforts necessary for incident detection and response.
+
+
+### Policy
+
+#### Incident response
 
 When a suspected incident is reported, it is first investigated by the eng-primary
-oncall. If it is suspected to be an incident, they should declare an incident,
-and identify the Incident Commander in the #incident-response Slack channel.
-The Incident Commander is responsible for:
+oncall. If it is suspected to be an incident, they must declare an incident,
+and identify the Incident Commander in the #incident-response Slack channel. Information from an incident must be kept confidential. The Incident Commander is responsible for:
 
 * If an incident is likely to require ongoing response and remediation efforts,
   opening a GitHub issue in the tailscale/corp repo to track updates to
@@ -26,17 +36,17 @@ The Incident Commander is responsible for:
 * Ensuring handoff between team members, for example, at the end of a work day.
 * Escalating to leadership if responses are insufficient.
 
-In addition to remediating the incident, Tailscale employees should also seek
+In addition to remediating the incident, Tailscale employees must also seek
 to put into place any corrective actions possible to lessen the impact of an
 incident.
 
 If an incident affects customers, including their data or their ability to use
 Tailscale, Tailscale may choose to proactively communicate the issue publicly.
 
-### Incident recovery
+#### Incident recovery
 
 If data or processes were disrupted by the incident, then the [BCP/DR policy](/security-policies/bcp-dr/)
-should be followed to remediate the issue.
+must be followed to remediate the issue.
 
 Once an incident is mitigated or otherwise closed, it is the Incident
 Commander’s responsibility to ensure that
@@ -49,9 +59,9 @@ Commander’s responsibility to ensure that
   mitigate or resolve it, the root cause(s), and the follow-up actions to
   prevent the incident from recurring. Where applicable, some version of the
   post-mortem may be shared with external affected parties. Newly identified
-  risks should be added to the risk register.
+  risks must be added to the risk register.
 
-### Incident classification
+#### Incident classification
 
 An incident is an adverse event which affects Tailscale’s infrastructure or
 business operations in such a way that it compromises our ability to deliver
@@ -92,3 +102,7 @@ Incidents can be classified based on their severity:
     </td>
   </tr>
 </table>
+
+### Roles and responsibilities
+
+Tailscale’s Security team is responsible for reviewing and updating the incident response process on an annual basis.

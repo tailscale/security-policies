@@ -6,19 +6,23 @@ faq: false
 weight: 12
 ---
 
+### Purpose
+
 Tailscale must retain certain kinds of data for a minimum amount of time, to comply with legal requirements. At the same time, Tailscale wants to avoid retaining any identifiable data for longer than is necessary, in case of a breach.
 
 ### Scope
 
 This policy applies to all data assets handled by Tailscale, including data from customers, potential customers, third parties, and employees.
 
-### Schedule
+### Policy
 
-Tailscale should review the data it retains as part of reviewing its data register quarterly.
+#### Schedule
 
-### Retention period
+Tailscale must review the data it retains as part of reviewing its data register quarterly.
 
-Data should be retained for a set period of time, depending on the type of data:
+#### Retention period
+
+Data must be retained for a set period of time, depending on the type of data:
 
 <table>
   <tr>
@@ -209,12 +213,16 @@ Data should be retained for a set period of time, depending on the type of data:
 
 *In response to a customer request and in compliance with legal requirements, Tailscale may also delete customer data prior to the end of the retention period.
 
-Where not specified, customer data should be retained no longer than is needed to provide the service, and anonymized or deleted afterwards.
+Where not specified, customer data must be retained no longer than is needed to provide the service, and anonymized or deleted afterwards.
 
-### Privacy Policy
+#### Privacy Policy
 
-Tailscale must delete customer data in accordance with the commitments, if any, made in [Tailscale’s Privacy Policy](/privacy-policy/). If the privacy policy is updated, the above retention periods should also be updated to reflect any changes.
+Tailscale must delete customer data in accordance with the commitments, if any, made in [Tailscale’s Privacy Policy](/privacy-policy/). If the privacy policy is updated, the above retention periods must also be updated to reflect any changes.
 
-### Deletion method
+#### Deletion method
 
 Data may be destroyed by overwriting on disk, deleting a cloud resource, encrypting and destroying the key, resetting a device, and/or physical destruction.
+
+### Roles and responsibilities
+
+Tailscale’s Security Review team is responsible for reviewing and updating the Data Retention policy requirements on an annual basis.

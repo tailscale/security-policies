@@ -8,7 +8,7 @@ _Since these are our internal policies, some links to internal documents or reso
 
 This repository is the source of truth for the policies available at https://tailscale.com/security-policies/.
 
-These policies were last reviewed on 2025-04-07.
+These policies were last reviewed on 2026-01-12.
 
 ### FAQ
 
@@ -32,7 +32,7 @@ This repository includes:
 
 ### When does Tailscale review or update these policies?
 
-The Chief Operating Officer is responsible for reviewing and updating security policies on a quarterly basis.
+The Chief Operating Officer is responsible for reviewing and updating security policies on an annual basis.
 See [overview](/overview.md) of policies.
 
 ### Why don't you use the stronger security control X for the Y policy?

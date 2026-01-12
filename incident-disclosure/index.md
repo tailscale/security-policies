@@ -6,15 +6,21 @@ faq: false
 weight: 5
 ---
 
+### Purpose
+
 This policy specifies when and how we notify users about security incidents.
 
+### Scope
+
 Both the client software and our managed backend infrastructure (i.e. coordination server) are in scope for this policy.
+
+### Policy
 
 For incidents that fall under any legal disclosure requirements (such as [California’s Data Security Breach Reporting](https://oag.ca.gov/privacy/databreach/reporting)), those requirements will take precedence over this policy.
 
 By “notify” here we mean explicitly contacting users in addition to regular release notes in the [changelog](https://tailscale.com/changelog/) and GitHub commit history. For example, you may read about minor vulnerability patches in release notes, but we may not notify users via a dedicated security bulletin.
 
-### When we notify users
+#### When we notify users
 
 Generally, we aim to reduce noise and only notify users for actionable incidents. Tailscale does not notify users for routine security patching of dependencies. We also don’t notify users for vulnerabilities in our software, if we confirm the vulnerability was not exploited and no users were affected.
 
@@ -36,3 +42,7 @@ To disclose security vulnerabilities, Tailscale publishes security bulletins pub
 To notify users about security vulnerabilities, Tailscale will **email** affected tailnets’ administrators, with information specific to the tailnet, including specific users or nodes which are affected. These emails will be sent to the [security contact](https://tailscale.com/kb/1224/contact-preferences/#setting-the-security-issues-email) for the tailnet, which by default is the Owner of the tailnet.
 
 Occasionally, Tailscale may decide to notify users in additional ways about a security issue, such as by publishing a [blog post](https://tailscale.com/blog/), or with in-product notifications (such as by putting a warning banner in the admin console).
+
+### Roles and responsibilities
+
+Tailscale’s Security Review team is responsible for sending notifications for incidents. The Security team is responsible for reviewing and updating this policy  on an annual basis.
