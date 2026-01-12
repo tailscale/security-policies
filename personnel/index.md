@@ -4,6 +4,7 @@ slug: personnel
 policy: true
 faq: false
 weight: 1
+last_updated: 2025-04-07
 ---
 
 ### Purpose
