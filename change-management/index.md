@@ -7,9 +7,15 @@ weight: 9
 last_updated: 2025-04-07
 ---
 
+### Purpose
+
 To avoid potential security incidents, Tailscale requires change management controls to ensure only authorized changes are made to its environment and processes.
 
-### Environment
+### Scope
+
+This policy applies to code, infrastructure, and customer account changes.
+
+### Policy
 
 #### Code changes
 
@@ -31,7 +37,7 @@ Documentation can be updated without requiring a separate reviewer.
 
 #### Infrastructure changes
 
-Employees should notify others prior to making changes to Tailscale’s infrastructure, e.g., over Slack. Where infrastructure is codified and uses a deployment tool, infrastructure changes should be approved by another employee prior to being deployed.
+Employees must notify others prior to making changes to Tailscale’s infrastructure, e.g., over Slack. Where infrastructure is codified and uses a deployment tool, infrastructure changes must be approved by another employee prior to being deployed.
 
 #### Customer accounts
 
@@ -39,8 +45,6 @@ Tailscale may make changes to customers’ networks and accounts in Tailscale at
 
 Tailscale may also make changes to customer environments without the customer initiating the request, such as when required by law or due to an urgent security issue.
 
-### Security policies
+### Roles and responsibilities
 
-Security policies must have a change log to allow auditing of past changes, including when and by whom these changes were made. Tailscale stores these security policies in GitHub and uses git to track changes.
-
-Tailscale will review and evaluate its security policies, adapt them as needed due to changing risks, and validate if the implemented information security continuity controls are sufficient on an annual basis.
+Tailscale’s Security Review team is responsible for reviewing and updating the Change Management policy requirements on an annual basis.
