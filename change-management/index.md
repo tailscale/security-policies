@@ -17,8 +17,6 @@ This policy applies to code, infrastructure, and customer account changes.
 
 ### Policy
 
-#### Environment
-
 #### Code changes
 
 Changes to code in Tailscale’s environment made by an employee or contractor must be tested and approved by another employee prior to being merged and rolled out.
