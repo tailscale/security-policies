@@ -4,7 +4,7 @@ slug: bcp-dr
 policy: true
 faq: false
 weight: 6
-last_updated: 2025-04-07
+last_updated: 2026-01-12
 ---
 
 ### Purpose
