@@ -4,7 +4,7 @@ slug: data-retention-deletion
 policy: true
 faq: false
 weight: 12
-last_updated: 2025-04-23
+last_updated: 2026-01-12
 ---
 
 ### Purpose
