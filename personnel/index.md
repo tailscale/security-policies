@@ -4,7 +4,7 @@ slug: personnel
 policy: true
 faq: false
 weight: 1
-last_updated: 2026-01-12
+last_updated: 2026-02-24
 ---
 
 ### Purpose
@@ -18,7 +18,7 @@ This policy covers all Tailscale employees including interns, contractors, part-
 ### Policy
 
 #### Reference Checks
-As part of its hiring process, Tailscale does not perform criminal background checks, but does employ a reference check process for prospective employment candidates prior to or within 30 days of their hire date.
+As part of its hiring process, Tailscale does not perform criminal background checks, but does employ a reference check process for full time, prospective employment candidates prior to or within 30 days of their hire date.
 
 #### Security Awareness training
 
