@@ -4,7 +4,7 @@ slug: password
 policy: true
 faq: false
 weight: 8
-last_updated: 2026-01-12
+last_updated: 2026-10-19
 ---
 
 ### Purpose
@@ -23,7 +23,7 @@ Passwords must be generated using a password management service.
 
 Password length must be at least a 15 character minimum.
 
-Passwords must be unique for each use.
+Passwords must be unique for each account; re-use is not permitted.
 
 Passwords must be randomly generated.
 

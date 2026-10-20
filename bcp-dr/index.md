@@ -13,7 +13,7 @@ Tailscale’s customers are dependent on our services operating as normal. Prope
 
 ### Scope
 
-The following minimum standards apply to Tailscale’s assets as managed by employees, contractors and vendors. These include but are not limited to: cloud service providers, cloud regions, major components within cloud regions, key vendors (those included in our [vendor assessment](/security-policies/vendor/), and key open-source components.
+The following minimum standards apply to Tailscale’s assets as managed by employees, contractors and vendors. These include but are not limited to: cloud service providers, cloud regions, major components within cloud regions, key vendors (those included in our [vendor assessment](/security-policies/vendor/)), and key open-source components.
 
 ### Policy
 

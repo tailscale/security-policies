@@ -1,10 +1,10 @@
 ---
-title: Information classification policy
+title: Asset and Information classification policy
 slug: information-classification
 policy: true
 faq: false
 weight: 3
-last_updated: 2026-01-12
+last_updated: 2026-10-19
 ---
 
 ### Purpose
@@ -13,13 +13,13 @@ To understand its potential exposure from a security risk, issue or incident, Ta
 
 ### Scope
 
-Applicable assets include, but not limited to, customer data, production data, financial data, intellectual property, and any material non-public information.
+Applicable assets include, but not limited to, employee devices, servers, customer data, production data, financial data, intellectual property, and any material non-public information.
 
 ### Policy
 
 #### Asset cataloging
 
-Tailscale catalogues assets with several pieces of information, to help identify the potential risk of the asset. Information collected is as follows:
+Tailscale catalogues assets with several pieces of information, to help identify the potential risk of the asset. Where data assets are stored or processed, it will inherit the same classification label of that data asset. Information collected is as follows:
 
 * **Description**, i.e. what is the asset?
 * **Risk**, i.e. what is the asset risk classification?
@@ -28,6 +28,23 @@ Tailscale catalogues assets with several pieces of information, to help identify
 * **Sharing**, i.e. is it shared with any third parties, such as vendors? Which specific third parties?
 
 If new data is catalogued, or data use changes, it should be specifically reviewed to verify that its collection and use is in line with [Tailscale’s Privacy Policy](/privacy-policy/).
+
+### Asset Types
+
+Below are examples of asset types:
+* **Physical assets** - employee laptops/computers, testing devices, mobile devices, and other company hardware.
+* **Infrastructure assets** - cloud hosting services, database servers, developer tooling.
+* **People and organizational assets** - employees (full time and part time staff), contractors, consultants, and third-party.
+* **Electronic document and communication assets** - email, contracts, video and audio recordings, company operational documentation, audit reports, etc.
+
+### Asset ownership and auditing
+* Assets may be owned by a different team or department depending on its type.
+* Assets are audited on a regular basis.
+
+### Removable media
+* Removable media such as USB or removable drives are prohibited unless required for business purposes. Exceptions should be submitted and reviewed by the Security team.
+
+Acceptable use of assets and data must be for business purposes only. Employees and contractors must use these resources responsibly and as governed by the Tailscale Employee Handbook.
 
 
 ### Asset risk classification
