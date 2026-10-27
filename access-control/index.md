@@ -45,6 +45,8 @@ Employees, contractors, and vendors are responsible for safe handling and storag
 
 Terminated employees must have their accounts disabled within 1 business day of transfer or termination.
 
+In the event where an involuntary termination or emergency suspension is required, account access is immediately revoked.
+
 Transferred employee access is reviewed and adjusted as found necessary. Since there could be delays in reporting changes in user responsibilities, periodic user access reviews are conducted by the Security Review Team.
 
 ### Exceptions ###

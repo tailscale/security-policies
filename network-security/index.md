@@ -33,7 +33,7 @@ Access to internal networks and systems is granted on a least-privilege, need-to
 
 Networks must be segmented so that access to one environment does not imply access to another, and so that production environments are separated from corporate and development environments.
 
-Tailscale's control plane runs on Linux servers within third party cloud provider virtual private clouds. DERP relay servers run across multiple regions and infrastructure providers with no shared state between regions, so that an outage in one region does not affect others.
+Tailscale's control plane runs within a third party cloud provider's virtual private clouds. DERP relay servers run across multiple regions and infrastructure providers with no shared state between regions, so that an outage in one region does not affect others.
 
 The coordination server stores only customer metadata and public keys, never customer data or private keys. DERP relay servers route only encrypted customer traffic.
 

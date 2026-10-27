@@ -34,7 +34,6 @@ If new data is catalogued, or data use changes, it should be specifically review
 Below are examples of asset types:
 * **Physical assets** - employee laptops/computers, testing devices, mobile devices, and other company hardware.
 * **Infrastructure assets** - cloud hosting services, database servers, developer tooling.
-* **People and organizational assets** - employees (full time and part time staff), contractors, consultants, and third-party.
 * **Electronic document and communication assets** - email, contracts, video and audio recordings, company operational documentation, audit reports, etc.
 
 ### Asset ownership and auditing
