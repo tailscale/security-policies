@@ -4,7 +4,7 @@ slug: access-control
 policy: true
 faq: false
 weight: 7
-last_updated: 2026-10-19
+last_updated: 2026-01-12
 ---
 
 ### Purpose
@@ -23,11 +23,9 @@ This policy applies throughout the entire lifecycle of employee, contractor, or 
 
 Where possible, access policies are enforced by technical measures.
 
-Tailscale should implement monitoring on its systems where possible, to record logon attempts and failures, successful logons and date and time of logon and logoff. Activities performed as administrator are logged where it is feasible to do so.
+Tailscale must implement monitoring on its systems where possible, to record logon attempts and failures, successful logons and date and time of logon and logoff. Activities performed as administrator are logged where it is feasible to do so.
 
 Personnel that require access to systems must submit a ticket for review and approval by a manager or a member of the Security Team to provision access.
-
-When access is approved, personnel will use their own unique credentials when accessing systems.
 
 Personnel who have administrative system access must use other less powerful accounts for performing non-administrative tasks. 
 
@@ -41,17 +39,11 @@ Tailscale systems must have sufficient granularity to allow appropriate authoriz
 
 Employees, contractors, and vendors are responsible for safe handling and storage of Tailscale-provided end user devices. If a device is lost or stolen, the loss must be immediately reported as an incident.
 
-#### Termination and Changing roles or responsibilities
+#### Changing roles or responsibilities
 
 Terminated employees must have their accounts disabled within 1 business day of transfer or termination.
 
-In the event where an involuntary termination or emergency suspension is required, account access is immediately revoked.
-
 Transferred employee access is reviewed and adjusted as found necessary. Since there could be delays in reporting changes in user responsibilities, periodic user access reviews are conducted by the Security Review Team.
-
-### Exceptions ###
-Where some systems may limit individual access or in such cases where emergency access is operationally necessary, shared accounts are permitted. Shared account access is restricted and stored in a secure password vault and follows principles of least privilege.
-
 
 ### Roles and responsibilities
 
