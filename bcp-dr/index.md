@@ -3,7 +3,7 @@ title: BCP/DR policy
 slug: bcp-dr
 policy: true
 faq: false
-weight: 6
+weight: 2
 last_updated: 2026-01-12
 ---
 

@@ -3,8 +3,8 @@ title: Information classification policy
 slug: information-classification
 policy: true
 faq: false
-weight: 3
-last_updated: 2026-01-12
+weight: 9
+last_updated: 2026-10-19
 ---
 
 ### Purpose

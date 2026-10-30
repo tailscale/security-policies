@@ -29,6 +29,10 @@ This repository includes:
 * [Patch management policy](/patch-management/index.md)
 * [Data retention and deletion policy](/data-retention-deletion/index.md)
 * [Incident disclosure and notification policy](/incident-disclosure/index.md)
+* [Encryption and Cryptography policy](/encryption-cryptography/index.md)
+* [Network Security policy](/network-security/index.md)
+* [Vulnerability management policy](/vuln-management/index.md)
+* [Secure Software Development Lifecycle policy](/ssdlc/index.md)
 
 ### When does Tailscale review or update these policies?
 
