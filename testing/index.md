@@ -3,7 +3,7 @@ title: Testing policy
 slug: testing
 policy: true
 faq: false
-weight: 10
+weight: 15
 last_updated: 2026-01-12
 ---
 

@@ -3,7 +3,7 @@ title: Incident disclosure and notification policy
 slug: incident-disclosure
 policy: true
 faq: false
-weight: 5
+weight: 6
 last_updated: 2026-01-12
 ---
 

@@ -3,7 +3,7 @@ title: Risk assessment policy
 slug: risk-assessment
 policy: true
 faq: false
-weight: 2
+weight: 13
 last_updated: 2026-01-12
 ---
 
