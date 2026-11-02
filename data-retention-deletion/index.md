@@ -3,7 +3,7 @@ title: Data retention and deletion policy
 slug: data-retention-deletion
 policy: true
 faq: false
-weight: 12
+weight: 4
 last_updated: 2026-01-12
 ---
 

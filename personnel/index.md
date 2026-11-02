@@ -3,7 +3,7 @@ title: Personnel policy
 slug: personnel
 policy: true
 faq: false
-weight: 1
+weight: 12
 last_updated: 2026-02-24
 ---
 

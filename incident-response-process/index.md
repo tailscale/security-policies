@@ -3,7 +3,7 @@ title: Incident response process
 slug: incident-response-process
 policy: true
 faq: false
-weight: 5
+weight: 8
 last_updated: 2026-01-12
 ---
 

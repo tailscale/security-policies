@@ -3,7 +3,7 @@ title: Third party vendor review policy
 slug: vendor
 policy: true
 faq: false
-weight: 4
+weight: 16
 last_updated: 2026-01-12
 ---
 

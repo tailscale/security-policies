@@ -3,7 +3,7 @@ title: Change management policy
 slug: change-management
 policy: true
 faq: false
-weight: 9
+weight: 3
 last_updated: 2026-01-12
 ---
 
